@@ -16,6 +16,13 @@ p{
   text-align:  center;
 }
 
+em strong{
+  color: yellow
+}
+.item{
+  font-style: italic;
+}
+
 #missao{
   font-size:  28px;
 }
